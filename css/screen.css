@@ -66,6 +66,10 @@ h5 { font-size:100%; }
         color: #3f576e;
       }
         
+	/* body --------------------------------------------------- */
+	#bigboss p { margin-left:150px; }
+
+
     /* navigation --------------------------------------------------- */
     #nav {position: relative; z-index:2; border: 1px solid #1a2735; border-right: none; border-left: none; padding: 7px 0;}
       #nav ul {margin:0; padding:0; list-style:none;}
@@ -127,7 +131,7 @@ h5 { font-size:100%; }
       color: #a0a9b0;
     }
     
-      #footer p { margin:0; padding-top:10px; }
+      #footer p {margin:0; padding-top:10px;}
 
 
 
